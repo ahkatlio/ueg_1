@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE_5.1/gg/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/UE_5.1/gg/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/UE_5.1/gg/Content/Characters/Mannequin_UE4/Animations/valting/VaultOver.uasset",
+				"E:/UE_5.1/gg/Content/Characters/Mannequin_UE4/Animations/valting/VaultOver_Montage.uasset",
+				"E:/UE_5.1/gg/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ND/YGVHUREJG3PMYNDS31PEKX.uasset",
+				"E:/UE_5.1/gg/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HP/7PNP29ZFWS9VHA06HTVYRD.uasset",
+				"E:/UE_5.1/gg/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DW/R5A1BAX9OPREY2149EL3WX.uasset",
+				"E:/UE_5.1/gg/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/9O/KDXSMFWCIOJB8KBZ4G6CVL.uasset",
+				"E:/UE_5.1/gg/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
+			]
+		}
+	]
+}
